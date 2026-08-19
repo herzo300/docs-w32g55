@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-f7yeer.biggamingwin.xyz/sitemap.xml
